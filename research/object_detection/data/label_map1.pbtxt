@@ -1,0 +1,28 @@
+item{
+	id:1
+	name:'men-formal-shirts'
+}
+item{
+	id:2
+	name:'men-jeans'
+}
+item{
+	id:3
+	name:'men-tshirts'
+}
+
+item{
+	id:4
+	name:'women-dresses-and-jumpsuits'
+}
+item{
+	id:5
+	name:'women-dress-material'
+}
+item{
+	id:6
+	name:'women-ethnic-tops'
+}item{
+	id:7
+	name:'women-kurtas-kurtis-suits'
+}
