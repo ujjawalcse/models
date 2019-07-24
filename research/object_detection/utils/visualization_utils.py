@@ -33,8 +33,8 @@ import PIL.ImageFont as ImageFont
 import six
 import tensorflow as tf
 
-from models.research.object_detection.core import standard_fields as fields #use object_detection.core instead(I have changed because it is needed in my docker formation)
-from models.research.object_detection.utils import shape_utils
+from object_detection.core import standard_fields as fields #use object_detection.core instead(I have changed because it is needed in my docker formation)
+from object_detection.utils import shape_utils
 
 _TITLE_LEFT_MARGIN = 10
 _TITLE_TOP_MARGIN = 10
